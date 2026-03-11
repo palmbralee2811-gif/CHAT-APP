@@ -1,16 +1,15 @@
-# chat_app
+CHAT APP
 
-A new Flutter project.
+-ศึกษาวิดีโอจาก udemy
 
-## Getting Started
+-นำไปทำกับเเชทแอปของเรา
 
-This project is a starting point for a Flutter application.
+-ตกแต่ง
 
-A few resources to get you started if this is your first Flutter project:
+-สร้าง firebase เก็บข้อมูลการเข้ารหัสเเต่ละวิธี เเละประวัติการคุยเเชท
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1366" height="691" alt="image" src="https://github.com/user-attachments/assets/f5f02e4f-d387-4502-aa2b-19ec0097235b" />
+<img width="1364" height="689" alt="image" src="https://github.com/user-attachments/assets/cb9c0efb-926d-4271-ad8e-f2b1d7c4edac" />
+<img width="503" height="726" alt="image" src="https://github.com/user-attachments/assets/81aa0cdf-cd19-4647-a60e-5a3c1ddb428b" />
+<img width="501" height="726" alt="image" src="https://github.com/user-attachments/assets/a89b2dcd-478e-48e6-bb8b-e958a759b33a" />
+<img width="500" height="725" alt="image" src="https://github.com/user-attachments/assets/38e7644e-51f0-4379-afdf-4b9e6b0d228c" />
